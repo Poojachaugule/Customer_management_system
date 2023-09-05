@@ -159,7 +159,7 @@ class CodeExit
 
 
 
-class EmployManagementSystem
+class CustomerManagementSystem
 {
   public static void main(String arv[])
   {
